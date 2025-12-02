@@ -1,6 +1,4 @@
-use std::{cmp::max, fs};
-
-use combine::parser::byte::num;
+use std::fs;
 
 fn parseline(line: &str) -> i32 {
     let mul = match line.chars().nth(0) {
