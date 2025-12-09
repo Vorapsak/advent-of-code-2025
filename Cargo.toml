@@ -1,8 +1,11 @@
 [workspace]
 members = [
+    "eight",
     "five",
     "four",
+    "nine",
     "one",
+    "seven",
     "six",
     "support/advent",
     "support/advent_macro",
